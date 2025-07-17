@@ -99,7 +99,7 @@
   </section>
 
   <footer>
-    <p>© 2025 SecureCam Solutions • Moka, Mauritius • +230 5X XXX XXX</p>
+    <p>© 2025 SecureCam Solutions • Moka, Mauritius • +230 57848671</p>
   </footer>
 
 </body>
